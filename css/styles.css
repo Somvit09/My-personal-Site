@@ -1,0 +1,93 @@
+body{
+  margin: 0;
+  background-color: white;
+  text-align: center;
+}
+h1{
+  color: #40514E;
+  font-size: 45px;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #000000;
+  font-size: 15px;
+  margin-top: 0;
+  font-family: 'Bold', cursive;
+}
+h4{
+  color: #ee2c2c;
+  font-size: 30px;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+h3{
+  color: #14389a;
+  font-size: 30px;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+hr{
+  border-style: dotted;
+  width: 5%;
+}
+.top_container{
+  margin: 0;
+  background-color: #CDF0EA;
+}
+.bottom_container{
+  margin: 0;
+}
+
+.middle_container{
+  margin: 0;
+}
+.mountain{
+  align-items: center;
+}
+.bottom-cloud{
+  position: absolute;
+}
+.bottom-cloud-2{
+  position: absolute;
+  margin-left: 150px;
+}
+.bottom-cloud-3{
+  position: absolute;
+  margin-right: 300px;
+}
+a{
+  color: #ee2c2c;
+  font-family: 'Sacramento', cursive;
+}
+.programmer{
+  color: #40514E;
+  font-weight: normal;
+}
+.wings{
+  width: 25%;
+  float: left;
+}
+.dp{
+  shape-margin: circle;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skills{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  margin-bottom: 20px;
+}
+.skill{
+  width: 30%;
+  margin: auto;
+}
+.wing{
+  width: 100%;
+
+}
+.hot{
+  margin-bottom: 20px;
+}
